@@ -1,0 +1,19 @@
+How to use:
+
+Releases:
+<repositories>
+  <repository>
+    <id>Shimi</id>
+    <name>Shimi Snapshot Repo</name>
+    <url>https://github.com/Shimi/shimi-mvn-repo/tree/master/releases</url>
+  </repository>
+</repositories>
+
+Snapshots:
+<repositories>
+  <repository>
+    <id>Shimi</id>
+    <name>Shimi Snapshot Repo</name>
+    <url>https://github.com/Shimi/shimi-mvn-repo/tree/master/snapshots</url>
+  </repository>
+</repositories>
